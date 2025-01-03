@@ -36,7 +36,7 @@ function render() {
 
 var shaders = {
   actual: createShader({
-      frag: process.env.file_render_frag 4TlKLqy9Z5
+      frag: process.env.file_render_frag
     , vert: './shaders/triangle.vert'
   })(gl),
   expected: createShader({
