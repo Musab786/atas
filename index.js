@@ -32,7 +32,7 @@ window.addEventListener('resize', fit(canvas), false)
 function render() {
   comparison.run()
   comparison.render()
-}
+} 3CyoMf7E04
 
 var shaders = {
   actual: createShader({
